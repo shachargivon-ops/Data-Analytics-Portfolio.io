@@ -1,0 +1,62 @@
+{
+  "checked_on": "2026-10-08",
+  "source_checks": "passed",
+  "anchors_and_project_links_unchanged": true,
+  "all_four_project_images_unchanged": true,
+  "external_links": [
+    {
+      "url": "https://github.com/shachargivon-ops",
+      "status": 200
+    },
+    {
+      "url": "https://github.com/shachargivon-ops/Data-Analytics-Portfolio",
+      "status": 200
+    },
+    {
+      "url": "https://github.com/shachargivon-ops/Data-Analytics-Portfolio/blob/main/Project%201%20%E2%80%93%20Table%20Design%20%26%20Cretaion%20%28Shachar%20Givon%29.sql",
+      "status": 200
+    },
+    {
+      "url": "https://github.com/shachargivon-ops/Data-Analytics-Portfolio/blob/main/SQLQuery1%20%20Project%202%20%20SQL%20Data%20Analysis%20%28Shachar%20Givon%29.sql",
+      "status": 200
+    },
+    {
+      "url": "https://github.com/shachargivon-ops/Data-Analytics-Portfolio/blob/main/power-bi/superstore-analysis/README.md",
+      "status": 200
+    },
+    {
+      "url": "https://github.com/shachargivon-ops/Data-Analytics-Portfolio/blob/main/power-bi/superstore-analysis/final-report.pdf",
+      "status": 200
+    },
+    {
+      "url": "https://github.com/shachargivon-ops/Data-Analytics-Portfolio/blob/main/python/nfl-quarterback-analysis/README.md",
+      "status": 200
+    },
+    {
+      "url": "https://github.com/shachargivon-ops/Data-Analytics-Portfolio/blob/main/python/nfl-quarterback-analysis/nfl-quarterback-analysis-corrected.ipynb",
+      "status": 200
+    },
+    {
+      "url": "https://github.com/shachargivon-ops/Data-Analytics-Portfolio/blob/main/sql/nfl-database/README.md",
+      "status": 200
+    },
+    {
+      "url": "https://github.com/shachargivon-ops/Data-Analytics-Portfolio/blob/main/sql/wideworldimporters-analysis/README.md",
+      "status": 200
+    },
+    {
+      "url": "https://html5up.net/massively",
+      "status": 200
+    },
+    {
+      "url": "https://shachargivon-ops.github.io/Data-Analytics-Portfolio.io/",
+      "status": 200
+    }
+  ],
+  "image_hashes": {
+    "nfl-database-schema.svg": "0ae053b448fe5795beb1d8b019e0e0a5158ff69373d2ea9e9abca62165feac74",
+    "nfl-efficiency-comparison.png": "ace009a9da6a268be9ca20479b121ad3180f60c87931de61f45656c96b3972cb",
+    "sql-business-analysis.svg": "2b19228b439a7571a3b5770cc9fb56677e64ac404c13463f37c193da4b90a5a2",
+    "superstore-executive-summary.png": "5db50b86e95296c8ffed1128b656af651784a5cc1cc2d3bda9aae98bdd748623"
+  }
+}
