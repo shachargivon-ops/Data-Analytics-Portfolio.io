@@ -19,3 +19,5 @@ PNG images are byte-for-byte copies from the cited source commit. SHA-256:
 `sql-business-analysis.svg` illustrates the SQL workflow. `nfl-database-schema.svg` illustrates table definitions and reference directions. Both are visibly labeled illustrations, not dashboard screenshots or query outputs. Old project assets are retained unused where unsuitable.
 
 Personal background, Munich, roles and email come from the owner's request. No invented analytics employment, certification, expert rating, phone or LinkedIn URL is added.
+
+Excel capabilities (Microsoft Excel, Pivot Tables, INDEX/MATCH, VLOOKUP, filtering and analysis) were supplied explicitly in the owner’s final refinement request. They are presented as practical skills, without expert-level, VBA, Power Pivot or automation claims.
